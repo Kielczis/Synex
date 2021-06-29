@@ -1,0 +1,2 @@
+# Synex
+Synex Discord Bot
